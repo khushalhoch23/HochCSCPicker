@@ -32,7 +32,7 @@ Pod::Spec.new do |spec|
 
   
   spec.platform     = :ios, '13.0'
-  spec.source_files  = 'HochCSCPickerView/**/*.{h,m,swift}'
+  spec.source_files  = 'HochCSCPickerView/**/*.{swift,h,m}'
   spec.swift_version = '5.0'
 
 
